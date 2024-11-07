@@ -16,4 +16,10 @@ Oznaka | Naziv | Kratki opis | Odgovorni član tima
 ------ | ----- | ----------- | -------------------
 q | w | e | r
 
+## Projektna dokumentacija
+- ovdje dodati poveznicu na ParkXplore-projektna-dokumentacija.pdf koja se nalazi u mapi "Dokumentacija" na master-docs grani.
+
+## Tehnička dokumentaija
+- ovdje dodati poveznicu na ParkXplore-tehnicka-dokumentacija.pdf koja se nalazi u mapi "Dokumentacija" na master-docs grani.
+
 ## Tehnologije i oprema
