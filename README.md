@@ -21,19 +21,19 @@ q | w | e | r
 ### Sustav za kamere - ParkXpert
 - ovdje dodati poveznicu na ParkXpert-projektna-dokumentacija.pdf koja se nalazi u mapi "Dokumentacija" na master-docs grani.
   
--  **Sustav za kamere - ParkXpert**: link na word verziju projektne dokumentacije (za uređivanje): [ParkXpert - projektna dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLdlwN39KzwMGAVSg?e=szMYpY) 
+- link na word verziju projektne dokumentacije (za uređivanje): [ParkXpert - projektna dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLdlwN39KzwMGAVSg?e=szMYpY) 
 
 ### Mobilna aplikacija - ParkXplore
 - ovdje dodati poveznicu na ParkXplore-projektna-dokumentacija.pdf koja se nalazi u mapi "Dokumentacija" na master-docs grani.
   
-- **MobileAPP - ParkXplore**: link na word verziju projektne dokumentacije (za uređivanje): [ParkXplore - projektna dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLazka5vO5gW95Be0?e=8TEYKN)
+- link na word verziju projektne dokumentacije (za uređivanje): [ParkXplore - projektna dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLazka5vO5gW95Be0?e=8TEYKN)
 
 ## Tehnička dokumentaija
 
 ### Sustav za kamere - ParkXpert
 - ovdje dodati poveznicu na ParkXpert-tehnicka-dokumentacija.pdf koja se nalazi u mapi "Dokumentacija" na master-docs grani.
 
-- **Sustav za kamere - ParkXpert**: link na word verziju tehničke dokumentacije (za uređivanje): [ParkXpert - tehnička dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLeKwfCekOBqXUeRI?e=1akafh) 
+- link na word verziju tehničke dokumentacije (za uređivanje): [ParkXpert - tehnička dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLeKwfCekOBqXUeRI?e=1akafh) 
 
 ### Mobilna aplikacija - ParkXplore
 - ovdje dodati poveznicu na ParkXplore-tehnicka-dokumentacija.pdf koja se nalazi u mapi "Dokumentacija" na master-docs grani.
