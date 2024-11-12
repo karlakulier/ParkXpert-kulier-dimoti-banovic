@@ -1,4 +1,4 @@
-# Softversko rješenje ParkXpert
+# Softversko rješenje ParkXpert i ParkXplore
 
 ## Projektni tim
 
