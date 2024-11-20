@@ -5,6 +5,12 @@ VisualStudioVersion = 17.12.35514.174 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkXplore.Server", "ParkXplore.Server\ParkXplore.Server.csproj", "{605F4364-6144-495D-A87E-9272232AB4E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkXplore.Core", "ParkXplore.Core\ParkXplore.Core.csproj", "{C6428C74-9969-4EB8-ABCE-9F8A70D11088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkXplore.Infrastructure", "ParkXplore.Infrastructure\ParkXplore.Infrastructure.csproj", "{C6AF02D3-F229-4D17-BDAF-0C6C23B2AD27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkXplore.Application", "ParkXplore.Application\ParkXplore.Application.csproj", "{24CDD3B5-689B-4545-B05E-AB3E3547EC34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{605F4364-6144-495D-A87E-9272232AB4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{605F4364-6144-495D-A87E-9272232AB4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{605F4364-6144-495D-A87E-9272232AB4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6428C74-9969-4EB8-ABCE-9F8A70D11088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6428C74-9969-4EB8-ABCE-9F8A70D11088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6428C74-9969-4EB8-ABCE-9F8A70D11088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6428C74-9969-4EB8-ABCE-9F8A70D11088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AF02D3-F229-4D17-BDAF-0C6C23B2AD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AF02D3-F229-4D17-BDAF-0C6C23B2AD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AF02D3-F229-4D17-BDAF-0C6C23B2AD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AF02D3-F229-4D17-BDAF-0C6C23B2AD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CDD3B5-689B-4545-B05E-AB3E3547EC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CDD3B5-689B-4545-B05E-AB3E3547EC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CDD3B5-689B-4545-B05E-AB3E3547EC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CDD3B5-689B-4545-B05E-AB3E3547EC34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
