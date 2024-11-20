@@ -5,7 +5,7 @@
 Ime i prezime | E-mail adresa | OIB | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
 Karla Kulier | karlakulier@gmail.com | 75821226159  | karlakulier |
-Vedran Đimoti | vedrandimoti@gmail.com | | VedranDimoti|
+Vedran Đimoti | vedrandimoti@gmail.com | 94542085545 | VedranDimoti|
 Matej Banović | mbanovicb@gmail.com | 31984717472 | mbanovic20
 
 ## Opis domene
