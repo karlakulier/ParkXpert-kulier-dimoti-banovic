@@ -20,8 +20,4 @@
     <Folder Include="Middleware\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ParkXplore.Infrastructure\ParkXplore.Infrastructure.csproj" />
-  </ItemGroup>
-
 </Project>
