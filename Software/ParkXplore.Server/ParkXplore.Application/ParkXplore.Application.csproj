@@ -8,7 +8,10 @@
 
   <ItemGroup>
     <Folder Include="Orchestration\" />
-    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ParkXplore.Core\ParkXplore.Core.csproj" />
   </ItemGroup>
 
 </Project>

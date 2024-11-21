@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ParkXplore.Application\ParkXplore.Application.csproj" />
     <ProjectReference Include="..\ParkXplore.Infrastructure\ParkXplore.Infrastructure.csproj" />
   </ItemGroup>
 

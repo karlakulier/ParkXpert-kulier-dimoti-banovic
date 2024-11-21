@@ -11,14 +11,14 @@ namespace ParkXplore.Infrastructure.Context
 {
     public class AppDbContext : DbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) 
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         { 
         }
 
-        public DbSet<User> Users { get; set; }
-        public DbSet<Parking> Parkings { get; set; }
-        public DbSet<ParkingSpot> ParkingSpots { get; set; }
-        public DbSet<Reservation> Reservations { get; set; }
+        public DbSet<User>? Users { get; set; }
+        public DbSet<Parking>? Parkings { get; set; }
+        public DbSet<ParkingSpot>? ParkingSpots { get; set; }
+        public DbSet<Reservation>? Reservations { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
