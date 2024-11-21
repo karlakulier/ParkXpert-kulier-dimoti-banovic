@@ -16,6 +16,13 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
+// Primjena migracija pri pokretanju aplikacije
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    dbContext.Database.Migrate();  // Ovdje primjenjujemo migracije automatski
+}
+
 // Omoguæavanje Swaggera samo u razvojnom okruženju
 if (app.Environment.IsDevelopment())
 {
