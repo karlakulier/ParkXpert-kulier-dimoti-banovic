@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ParkXplore.Core\ParkXplore.Core.csproj" />
+    <ProjectReference Include="..\ParkXplore.Infrastructure\ParkXplore.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

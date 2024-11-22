@@ -15,6 +15,10 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<IRepository<ParkingSpot>, ParkingSpotRepository>();
 builder.Services.AddScoped<IParkingSpotService, ParkingSpotService>();
 
+builder.Services.AddScoped<IRepository<Reservation>, ReservationRepository>();
+builder.Services.AddScoped<IReservationService, ReservationService>();
+
+
 // Dodavanje Swaggera
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
