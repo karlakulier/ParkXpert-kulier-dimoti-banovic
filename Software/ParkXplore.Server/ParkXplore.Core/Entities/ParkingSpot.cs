@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace ParkXplore.Core.Entities
@@ -13,6 +14,7 @@ namespace ParkXplore.Core.Entities
         public bool IsAvailable { get; set; }
         public Parking? Parking { get; set; }
         public ParkingSpotType Type { get; set; }
+        [JsonIgnore]
         public ICollection<Reservation>? Reservations { get; set; }
     }
 }
