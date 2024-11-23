@@ -1,4 +1,5 @@
 ﻿using ParkXplore.Core.Entities;
+using ParkXplore.Core.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,8 +24,9 @@ namespace ParkXplore.Application.Services {
         }
 
         public async Task<bool> CreateUserAsync(User user) {
-            user.PasswordHash = HashPassword(user.PasswordHash!); 
-            await _userRepository.CreateAsync(user);
+            
+            user.PasswordHash = HashPassword(user.PasswordHash!);
+            await _userRepository.AddAsync(user); 
             return await _userRepository.SaveChangesAsync();
         }
 
@@ -33,21 +35,22 @@ namespace ParkXplore.Application.Services {
             return await _userRepository.SaveChangesAsync();
         }
 
-        public async Task<bool> DeleteUserAsync(int userId) {
+        public async Task<bool> DeleteUserAsync(int userId) {          
             var user = await _userRepository.GetByIdAsync(userId);
             if (user == null) return false;
 
-            _userRepository.Delete(user);
+            _userRepository.Remove(user);
             return await _userRepository.SaveChangesAsync();
         }
 
         public async Task<User?> LoginAsync(string email, string password) {
             var user = await _userRepository.GetByEmailAsync(email);
 
+
             if (user == null || !VerifyPassword(password, user.PasswordHash))
                 return null;
 
-            return user; 
+            return user;
         }
 
         private string HashPassword(string password) {
@@ -64,4 +67,4 @@ namespace ParkXplore.Application.Services {
         }
     }
 }
-}
+
