@@ -61,3 +61,32 @@ F11 | Prikaz posebnih ponuda i promocija | Sustav će omogućiti korisnicima pre
 - link na word verziju tehničke dokumentacije (za uređivanje): [ParkXplore - tehnička dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLdKELMqb9kTqoNdI?e=lnFC1e)
 
 ## Tehnologije i oprema
+Pri implementaciji softverskog rješenja za praćenje rada kozmetičkog salona koristit će se niz tehnologija, alata i opreme kako bi se osigurala kvaliteta, funkcionalnost i sigurnost rješenja. Ovdje je popis tih elemenata:
+
+* [*Programski jezik C#*](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022): Korišten za razvoj glavnog softverskog rješenja.
+
+* [*Programski jezik Kotlin*](https://kotlinlang.org/): Korišten za razvoj grafičkog korisničkog sučelja, pružajući bogat, stabilan i interaktivan dizajn.
+
+* [*Visual Studio*](https://visualstudio.microsoft.com/): Kao integrirano razvojno okruženje za programiranje u C# i Windows Presentation Foundation (WPF) .NET.
+
+* [*MySQL*](https://sqlitebrowser.org/): Za pohranu podataka o klijentima, osoblju, rasporedu, tretmanima, uslugana i administrativnim informacijama.
+
+* [*ADO.NET*](https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview): Za integraciju i upravljanje online bazom podataka, omogućujući siguran pristup i manipulaciju podacima.
+
+* [*ASP.NET*](https://dotnet.microsoft.com/en-us/apps/aspnet): Razvojni framework otvorenog koda od Microsofta korišten za izradu dinamičnog, sigurnog i skalabilnog API-ja koristeći .NET platformu, podržavajući stilove razvoja MVC.
+
+* [*Entity Framework*](https://learn.microsoft.com/en-us/ef/): Za olakšavanje upita i pristupa podacima u aplikaciji.
+
+* [*SMTP server*](https://support.google.com/a/answer/176600?hl=en): Za slanje e-mail obavijesti klijentima.
+
+* [*Operativni sustav Windows*](https://www.microsoft.com/en-us/windows?r=1): Kako bi aplikacija bila kompatibilna s okruženjem većine korisnika.
+
+* [*Projektni alati (Gantt Chart)*](https://www.onlinegantt.com/#/gantt): Za upravljanje projektom, planiranje aktivnosti, i praćenje napretka.
+
+* [*Version Control Platform (GitHub)*](https://github.com/): Za upravljanje izvorima koda, verzioniranje i timsku suradnju.
+
+* [*Visual Paradigm*](https://www.visual-paradigm.com/whats-new/): Za dizajniranje i kreiranje dijagrama
+
+* [*Dokumentacijski alati (Microsoft Office Education)*](https://www.microsoft.com/en-us/education/products/microsoft-365): Za izradu tehničke dokumentacije, uputa za korištenje i dokumentacije korisnika.
+
+Svi korišteni alati i tehnologije su javno dostupni i imaju odgovarajuće licence kako bi se osigurala legalnost i usklađenost s pravilima i propisima. Za tehnologije koje nisu standardno dostupne (npr. Entity Framework) u dokumentaciji će biti navedeni načini instalacije i korištenja.
