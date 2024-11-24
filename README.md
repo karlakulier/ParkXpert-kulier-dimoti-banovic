@@ -63,6 +63,8 @@ F11 | Prikaz posebnih ponuda i promocija | Sustav će omogućiti korisnicima pre
 ## Tehnologije i oprema
 Pri implementaciji softverskog rješenja za praćenje rada kozmetičkog salona koristit će se niz tehnologija, alata i opreme kako bi se osigurala kvaliteta, funkcionalnost i sigurnost rješenja. Ovdje je popis tih elemenata:
 
+* [*LoRaWAN*](https://lens-zagreb.hr/proizvodi/iot-internet-of-things/lora/): Korištena za komunikaciju kamera i API-ja.
+
 * [*Programski jezik C#*](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022): Korišten za razvoj glavnog softverskog rješenja.
 
 * [*Programski jezik Kotlin*](https://kotlinlang.org/): Korišten za razvoj grafičkog korisničkog sučelja, pružajući bogat, stabilan i interaktivan dizajn.
