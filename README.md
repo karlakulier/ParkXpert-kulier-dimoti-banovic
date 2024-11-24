@@ -39,24 +39,24 @@ F11 | Prikaz posebnih ponuda i promocija | Sustav će omogućiti korisnicima pre
 ## Projektna dokumentacija
 
 ### Sustav za kamere - ParkXpert
-https://github.com/karlakulier/ParkXpert-kulier-dimoti-banovic/blob/731b6211e07e92789b852c2a96741d764bcd445f/ParkXpert%20-%20projektna%20dokumentacija.docx.pdf
+- [ParkXpert - projektna dokumentacija (PDF), 24.11.2024.](https://github.com/karlakulier/ParkXpert-kulier-dimoti-banovic/raw/731b6211e07e92789b852c2a96741d764bcd445f/ParkXpert%20-%20projektna%20dokumentacija.docx.pdf)
   
 - link na word verziju projektne dokumentacije (za uređivanje): [ParkXpert - projektna dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLdlwN39KzwMGAVSg?e=szMYpY) 
 
 ### Mobilna aplikacija - ParkXplore
-https://github.com/karlakulier/ParkXpert-kulier-dimoti-banovic/blob/731b6211e07e92789b852c2a96741d764bcd445f/ParkXplore%20-%20projektna%20dokumentacija.docx%20-%20Microsoft%20Word%20Online.pdf
+- [ParkXplore - projektna dokumentacija (PDF), 24.11.2024.](https://github.com/karlakulier/ParkXpert-kulier-dimoti-banovic/blob/731b6211e07e92789b852c2a96741d764bcd445f/ParkXplore%20-%20projektna%20dokumentacija.docx%20-%20Microsoft%20Word%20Online.pdf)
   
 - link na word verziju projektne dokumentacije (za uređivanje): [ParkXplore - projektna dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLazka5vO5gW95Be0?e=8TEYKN)
 
 ## Tehnička dokumentaija
 
 ### Sustav za kamere - ParkXpert
-https://github.com/karlakulier/ParkXpert-kulier-dimoti-banovic/blob/731b6211e07e92789b852c2a96741d764bcd445f/ParkXpert%20-%20tehni%C4%8Dka%20dokumentacija.docx.pdf
+- [ParkXpert - tejnička dokumentacija (PDF), 24.11.2024.](https://github.com/karlakulier/ParkXpert-kulier-dimoti-banovic/blob/731b6211e07e92789b852c2a96741d764bcd445f/ParkXpert%20-%20tehni%C4%8Dka%20dokumentacija.docx.pdf)
 
 - link na word verziju tehničke dokumentacije (za uređivanje): [ParkXpert - tehnička dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLeKwfCekOBqXUeRI?e=1akafh) 
 
 ### Mobilna aplikacija - ParkXplore
-https://github.com/karlakulier/ParkXpert-kulier-dimoti-banovic/blob/731b6211e07e92789b852c2a96741d764bcd445f/ParkXplore%20-%20tehni%C4%8Dka%20dokumentacija.docx.pdf
+- [ParkXplore - tehnička dokumentacija (PDF), 24.11.2024.](https://github.com/karlakulier/ParkXpert-kulier-dimoti-banovic/blob/731b6211e07e92789b852c2a96741d764bcd445f/ParkXplore%20-%20tehni%C4%8Dka%20dokumentacija.docx.pdf)
 
 - link na word verziju tehničke dokumentacije (za uređivanje): [ParkXplore - tehnička dokumentacija](https://1drv.ms/w/s!AqbB7Uw6ErKLdKELMqb9kTqoNdI?e=lnFC1e)
 
