@@ -69,7 +69,7 @@ Pri implementaciji softverskog rješenja za praćenje rada kozmetičkog salona k
 
 * [*Visual Studio*](https://visualstudio.microsoft.com/): Kao integrirano razvojno okruženje za backend programiranje u C# i .NET okruženju.
   
-* [*Android Studio*](https://visualstudio.microsoft.com/): Kao integrirano razvojno okruženje za frontend programiranje u Kotlin-u.
+* [*Android Studio*](https://developer.android.com/studio): Kao integrirano razvojno okruženje za frontend programiranje u Kotlin-u.
 
 * [*MySQL*](https://sqlitebrowser.org/): Za pohranu podataka o klijentima, parkinzima, parkirnim mjestima i administrativnim informacijama.
 
