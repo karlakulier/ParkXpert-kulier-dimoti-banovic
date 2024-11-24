@@ -48,6 +48,9 @@ if (app.Environment.IsDevelopment())
 // Routing za API
 app.UseRouting();
 
+
+app.UseCors();
+
 app.MapControllers();
 
 app.Run();
