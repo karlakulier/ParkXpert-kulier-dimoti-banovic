@@ -67,7 +67,9 @@ Pri implementaciji softverskog rješenja za praćenje rada kozmetičkog salona k
 
 * [*Programski jezik Kotlin*](https://kotlinlang.org/): Korišten za razvoj grafičkog korisničkog sučelja, pružajući bogat, stabilan i interaktivan dizajn.
 
-* [*Visual Studio*](https://visualstudio.microsoft.com/): Kao integrirano razvojno okruženje za programiranje u C# i .NET okruženju.
+* [*Visual Studio*](https://visualstudio.microsoft.com/): Kao integrirano razvojno okruženje za backend programiranje u C# i .NET okruženju.
+  
+* [*Android Studio*](https://visualstudio.microsoft.com/): Kao integrirano razvojno okruženje za frontend programiranje u Kotlin-u.
 
 * [*MySQL*](https://sqlitebrowser.org/): Za pohranu podataka o klijentima, parkinzima, parkirnim mjestima i administrativnim informacijama.
 
