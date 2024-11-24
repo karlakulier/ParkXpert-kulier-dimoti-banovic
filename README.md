@@ -67,13 +67,13 @@ Pri implementaciji softverskog rješenja za praćenje rada kozmetičkog salona k
 
 * [*Programski jezik Kotlin*](https://kotlinlang.org/): Korišten za razvoj grafičkog korisničkog sučelja, pružajući bogat, stabilan i interaktivan dizajn.
 
-* [*Visual Studio*](https://visualstudio.microsoft.com/): Kao integrirano razvojno okruženje za programiranje u C# i Windows Presentation Foundation (WPF) .NET.
+* [*Visual Studio*](https://visualstudio.microsoft.com/): Kao integrirano razvojno okruženje za programiranje u C# i .NET okruženju.
 
-* [*MySQL*](https://sqlitebrowser.org/): Za pohranu podataka o klijentima, osoblju, rasporedu, tretmanima, uslugana i administrativnim informacijama.
+* [*MySQL*](https://sqlitebrowser.org/): Za pohranu podataka o klijentima, parkinzima, parkirnim mjestima i administrativnim informacijama.
 
 * [*ADO.NET*](https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview): Za integraciju i upravljanje online bazom podataka, omogućujući siguran pristup i manipulaciju podacima.
 
-* [*ASP.NET*](https://dotnet.microsoft.com/en-us/apps/aspnet): Razvojni framework otvorenog koda od Microsofta korišten za izradu dinamičnog, sigurnog i skalabilnog API-ja koristeći .NET platformu, podržavajući stilove razvoja MVC.
+* [*ASP.NET*](https://dotnet.microsoft.com/en-us/apps/aspnet): Razvojni framework otvorenog koda od Microsofta korišten za izradu dinamičnog, sigurnog i skalabilnog API-ja koristeći .NET platformu, MVC stil razvoja.
 
 * [*Entity Framework*](https://learn.microsoft.com/en-us/ef/): Za olakšavanje upita i pristupa podacima u aplikaciji.
 
